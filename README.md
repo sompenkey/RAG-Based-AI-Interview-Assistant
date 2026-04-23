@@ -30,6 +30,24 @@ Query + Context Retrieval
 LLM (GPT / HuggingFace Model)
 ↓
 Generated Interview Questions & Answers
+
+
+---
+
+## Tech Stack
+
+- **Programming Language:** Python  
+- **NLP & ML:** Scikit-learn, NLTK  
+- **Embeddings & RAG:** FAISS, LangChain / LlamaIndex  
+- **LLM:** OpenAI / HuggingFace Models  
+- **Backend:** FastAPI  
+- **Data Handling:** Pandas, NumPy  
+
+---
+
+## Project Structure
+
+
 rag-interview-assistant/
 │
 ├── backend/
