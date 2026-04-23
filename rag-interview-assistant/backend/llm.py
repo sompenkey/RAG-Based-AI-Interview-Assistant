@@ -8,6 +8,6 @@ def get_llm():
     return ChatOpenAI(
         temperature=0.7,
         openai_api_key=os.getenv("NVIDIA_API_KEY"),
-        openai_api_base="https://integrate.api.nvidia.com/v1",
+        openai_api_base="https://xxxx/v1",
         model_name="meta/llama-3.1-8b-instruct"
     )
