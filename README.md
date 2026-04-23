@@ -29,7 +29,7 @@ Query + Context Retrieval\
 ↓\
 LLM (GPT / HuggingFace Model)\
 ↓\
-Generated Interview Questions & Answers\
+Generated Interview Questions & Answers
 
 
 ---
@@ -48,9 +48,9 @@ Generated Interview Questions & Answers\
 ## Project Structure
 
 
-rag-interview-assistant/
-│
-├── backend/
+rag-interview-assistant/ /
+│ /
+├── backend/ /
 │ ├── main.py
 │ ├── rag_pipeline.py
 │ ├── retriever.py
