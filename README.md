@@ -4,7 +4,7 @@ An AI-powered system that analyzes resumes and generates personalized technical 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload and parse resumes (PDF/DOCX)
 - Extract structured information from unstructured resume data
