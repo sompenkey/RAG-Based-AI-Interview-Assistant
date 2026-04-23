@@ -17,7 +17,7 @@ An AI-powered system that analyzes resumes and generates personalized technical 
 ---
 
 ## System Architecture
-Resume (PDF/DOCX)
+Resume (PDF/DOCX)\
 ↓
 Text Extraction & Cleaning
 ↓
