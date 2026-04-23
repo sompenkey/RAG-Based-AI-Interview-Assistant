@@ -18,18 +18,18 @@ An AI-powered system that analyzes resumes and generates personalized technical 
 
 ## System Architecture
 Resume (PDF/DOCX)\
-↓
-Text Extraction & Cleaning
-↓
-Chunking & Embedding Generation
-↓
-Vector Database (FAISS)
-↓
-Query + Context Retrieval
-↓
-LLM (GPT / HuggingFace Model)
-↓
-Generated Interview Questions & Answers
+↓\
+Text Extraction & Cleaning\
+↓\
+Chunking & Embedding Generation\
+↓\
+Vector Database (FAISS)\
+↓\
+Query + Context Retrieval\
+↓\
+LLM (GPT / HuggingFace Model)\
+↓\
+Generated Interview Questions & Answers\
 
 
 ---
